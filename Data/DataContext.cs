@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using testeef.Models;
+using Shop.Models;
 
 namespace Shop.Data
 {
